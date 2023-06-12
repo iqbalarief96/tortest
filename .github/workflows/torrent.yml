@@ -1,4 +1,4 @@
-name: DOcker Torrent Download
+name: Docker Torrent Download
 on:
   workflow_dispatch:
   inputs:
